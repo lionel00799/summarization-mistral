@@ -1,0 +1,10 @@
+# Jupyter Labs
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+
+# Model and input files
+models/
+inputs/
+
+# Other
+.DS_Store
